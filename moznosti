@@ -1,0 +1,35 @@
+        var msBingoMoznosti = [
+            "MS: Beru svou svou bejbe a benzo a jedem",
+            "LastŠuk: Sorry nefeeluju to",
+        ];
+
+        var freakBingoMoznosti = [
+            "Freak: Zejtra uklidim",
+            "Freak: Jdu si objednat pizzu",
+            "Freak: Došlo mi pivo, jdu si pro další",
+            "Freak: Sundání trička",
+        ];
+
+        var macbackBingoMoznosti = [
+            "Macback: Dal bych si kebab",
+            "Macback: Dám si mraženou pizzu?",
+            "Macback: Asi bych měl už umýt nádobí",
+            "Macback: Dám si bong",
+            "MacBack: Nic mi to nedělá",
+            "Macback: Firemní párty",
+            "Macback: Zejtra uklidim",
+            "Macback: Vrátil se z astrálního cestování",
+            "Macback: Tu druhou vodku si nechám na zítřek",
+            "Macback: Lexi dopíči",
+            "Macback: MACKUU",
+            "Macback: Počkej, počkej, můžu?",
+            "Macback: Sundání trička",
+        ];
+
+        var meitonBingoMoznosti = [
+            "Meiton: Dám si bong",
+            "Meiton: Pouští první kontakt",
+            "Meiton: Dneska skoreho pouštět nebudu",
+            "Meiton: Včera jsme prcali s Jitkou",
+            "Meiton: Sundání trička",
+        ];
