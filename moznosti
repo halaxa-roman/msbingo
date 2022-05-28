@@ -1,5 +1,7 @@
         var msBingoMoznosti = [
             "MS: Beru svou svou bejbe a benzo a jedem",
+            "MS: Tvoje máma",
+            "MS: Gay",
             "LastŠuk: Sorry nefeeluju to",
         ];
 
@@ -8,6 +10,7 @@
             "Freak: Jdu si objednat pizzu",
             "Freak: Došlo mi pivo, jdu si pro další",
             "Freak: Sundání trička",
+            "Freak: Zmiňuje Tomyho salámky"
         ];
 
         var macbackBingoMoznosti = [
@@ -24,6 +27,8 @@
             "Macback: MACKUU",
             "Macback: Počkej, počkej, můžu?",
             "Macback: Sundání trička",
+            "Macback: Měl bych se sebou něco dělat",
+            "Macback: Zítra to příjde"
         ];
 
         var meitonBingoMoznosti = [
@@ -32,4 +37,7 @@
             "Meiton: Dneska skoreho pouštět nebudu",
             "Meiton: Včera jsme prcali s Jitkou",
             "Meiton: Sundání trička",
+            "Meiton: Prcal bych freaka",
+            "Meiton: Freaku dej si hořčík",
+            "Meiton: Dal sem si čtyři rivotrily"
         ];
